@@ -1,0 +1,55 @@
+
+{
+  "project_info": {
+    "project_number": "289568467867",
+    "project_id": "meyaa-gp-57e82",
+    "storage_bucket": "meyaa-gp-57e82.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:289568467867:android:943027bb3f77221e2e0f3e",
+        "android_client_info": {
+          "package_name": "com.meyaa.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "289568467867-e7sb0cjv1ef2hq7kk3fl1mpdl7ld34ur.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.meyaa.app",
+            "certificate_hash": "e81e3f1194da63fb9a5fbae4c144c5f4c39fbf18"
+          }
+        },
+        {
+          "client_id": "289568467867-0pc3bj37tpv31837p3n1i9rm4bouqhpd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_ZC2mAbaq_Z89UMiAuP1C-0BnAwpunE8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "289568467867-0pc3bj37tpv31837p3n1i9rm4bouqhpd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "289568467867-jj604gtljit5grt7sd492fo3r1gr6m2p.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.MEYAA"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
