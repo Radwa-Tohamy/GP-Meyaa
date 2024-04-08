@@ -1119,6 +1119,7 @@ class _ChatbottScreenState extends State<ChatbottScreen> {
           }
         } else {
           print('Storage permission denied.');
+          
           // Handle permission denial gracefully, e.g., display an error message
         }
       } catch (error) {
