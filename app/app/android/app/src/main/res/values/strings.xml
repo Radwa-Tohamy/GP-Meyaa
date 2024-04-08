@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MeyaaAuth</string>
+    <string name="facebook_app_id">1450696349161215</string>
+    <string name="fb_login_protocol_scheme">fb1450696349161215</string>
+    <string name="facebook_client_token">2f470f24b4746ee3538f9533c39304c6</string>   
+</resources>

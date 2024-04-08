@@ -3,9 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>CLIENT_ID</key>
-	<string>289568467867-picda0m56of0do4vunoui1k1clj2nf9a.apps.googleusercontent.com</string>
+	<string>289568467867-pkgjdg3v5ffvifsebq0d2475s6mbeksv.apps.googleusercontent.com</string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.289568467867-picda0m56of0do4vunoui1k1clj2nf9a</string>
+	<string>com.googleusercontent.apps.289568467867-pkgjdg3v5ffvifsebq0d2475s6mbeksv</string>
 	<key>ANDROID_CLIENT_ID</key>
 	<string>289568467867-55s9f3p9gc7594e46mqqfap8tt5p4dd8.apps.googleusercontent.com</string>
 	<key>API_KEY</key>
@@ -15,7 +15,7 @@
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>com.example.firstApp.RunnerTests</string>
+	<string>com.example.meyaa</string>
 	<key>PROJECT_ID</key>
 	<string>meyaa-gp-57e82</string>
 	<key>STORAGE_BUCKET</key>
@@ -31,6 +31,8 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:289568467867:ios:3b226c4771f684452e0f3e</string>
+	<string>1:289568467867:ios:07e74766d0f0ce372e0f3e</string>
+	<key>DATABASE_URL</key>
+	<string>https://meyaa-gp-57e82-default-rtdb.firebaseio.com</string>
 </dict>
 </plist>
