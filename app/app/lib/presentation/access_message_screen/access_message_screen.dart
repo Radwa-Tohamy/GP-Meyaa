@@ -171,6 +171,8 @@ class _CustomPopupState extends State<CustomPopup> {
                   style: ElevatedButton.styleFrom(
                     // primary: appTheme.accessTheme2,
                     // onPrimary: Colors.black,
+
+                    
                     padding: EdgeInsets.symmetric(horizontal: 15, vertical: 20),
                     shape: RoundedRectangleBorder(
                       borderRadius: BorderRadius.circular(
